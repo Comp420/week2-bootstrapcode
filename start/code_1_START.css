@@ -1,0 +1,31 @@
+html {
+	font-family: Arial;
+}
+
+#main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.my-heading {
+	/*TODO*/
+	/*Give my-heading a color and font size of your choice*/
+}
+
+/*TODO*/
+/*Select the pseudo element ":hover" of the my-heading class, giving it
+a different color and bigger font size than above, as well as an underline*/
+
+/*TODO*/
+/*Select the pseudo-element ":hover" of the my-img class, giving it a
+grayscale filter */
+
+/*TODO*/
+/*Add transition duration to .my-img and .my-heading*/
+
+/*TODO*/
+/*Put the HEX code of the colors in variables, then interpolate these in the rules*/
+
+/*TODO*/
+/*Define a class transition for .my-heading*/
